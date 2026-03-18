@@ -1,0 +1,31 @@
+# data files (too large for git — download from Kaggle)
+data/*.csv
+data/*.xlsx
+notebooks/data/*.csv
+notebooks/Historical
+
+# model artifacts
+ml/*.pkl
+notebooks/ml/*.pkl
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.env
+venv/
+env/
+
+# system
+.DS_Store
+Thumbs.db
+
+# node (used only for docx generation)
+node_modules/
+package-lock.json
+package.json
+
+# plots are committed so viewers can see results
+# to ignore them uncomment below:
+# plots/
