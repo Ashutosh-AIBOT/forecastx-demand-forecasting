@@ -16,4 +16,8 @@ openpyxl>=3.1.0
 
 # Optional but recommended
 pillow>=10.0.0
+<<<<<<< HEAD
 python-dateutil>=2.8.2
+=======
+python-dateutil>=2.8.2
+>>>>>>> 63e1428baedefe52b9bf6e845b2ec3993d892172
